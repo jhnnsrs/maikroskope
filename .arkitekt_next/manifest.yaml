@@ -1,0 +1,6 @@
+author: jhnnsrs
+entrypoint: app
+identifier: maikroskope
+scopes:
+- read
+version: 0.0.2
